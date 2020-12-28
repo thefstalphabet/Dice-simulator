@@ -1,1 +1,1 @@
-# Dice-Simulator
+# Dice-simulator
